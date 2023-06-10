@@ -1,11 +1,11 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "github-actions"
+  default = "github-actions5"
 }
 
 variable "application_name" {
   description = "The Spring Boot application name"
-  default     = "githuactions1"
+  default     = "githubactions15"
 }
 
 variable "location" {
